@@ -33,7 +33,7 @@
         <p>Esse site foi feito na disciplina de educação digital</p>
     </header>
     <main>
-        <img src="computador.png" alt="icone de computador">
+        <img src="post1.png" alt="icone de computador">
         
         <div>
             <h2>Meu primeiro post</h2>
@@ -47,6 +47,11 @@
 
 <script>
     const botao = document.querySelector("button");
+    botao.addEventListener("click",botaoClicado);
+
+    function botaoClicado () {
+        console.log("fui clicado");
+    }
 </script>
 
 </html>
