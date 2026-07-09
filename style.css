@@ -1,0 +1,22 @@
+        header {
+            background-color: darkred;
+            color: azure;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            border: 1px solid #000000;
+            padding: 16px;
+        }
+
+        main {
+            background-color: azure;
+            color: darkred;
+            text-align: center;
+            margin: 0 auto;
+
+        }
+
+        img {
+            width: 180px;
+            height: 180px;
+        }
