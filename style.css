@@ -1,10 +1,19 @@
 :root{
-    --cor-primaria: #4812e9;
-    --cor-secundaria: #12a1e9;
-    --cor-fundo: #4406ff;
-    --cor-texto: #efedf3;
+    --cor-primaria: #734bea;
+    --cor-secundaria: #69c5f3;
+    --cor-fundo: #7f57f6;
+    --cor-texto: #413f47;
     --cor-contraste: #ad9ce0;
     --cor-botao: #7fc9d3;
+}
+
+.tema-escuro {
+    --cor-primaria: #1a055a;
+    --cor-secundaria: #04415f;
+    --cor-fundo: #2b1a5d;
+    --cor-texto: #b395ef;
+    --cor-contraste: #726599;
+    --cor-botao: #457278;
 }
 
 
