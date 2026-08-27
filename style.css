@@ -65,3 +65,11 @@ img {
     background-color: var(--cor-primaria);
     border-radius: 50%;
 }
+
+.tema-escuro .btn-tema-escuro {
+    background-color: var(--cor-secundaria);
+}
+
+*{
+    transition: background-color 0.3s ease;
+}
